@@ -1,0 +1,111 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 294 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 294 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237103_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237103_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237103_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 415L Top Freezer RMP415YEU Mabe 100065090 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer--inox-415-litros-rmp415yeu/p?idsku=294 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 619.02 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 530 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 530 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240233_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240233_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240233_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 390L Top Mount RI-480 MF QZ INV Indurama 100065825 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-390l-top-mount-ri-480-mf-qz-inv-indurama/p?idsku=530 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 598.53 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 481 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 481 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238651_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238651_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238651_2 ]]></image>
+
+      <title><![CDATA[ Televisor 43" FHD Google TV GLT43TPQ10 Riviera 100065700 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-43--fhd-google-tv-glt43tpq10-riviera/p?idsku=481 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 321.00 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 579 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 579 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239931_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239931_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239931_2 ]]></image>
+
+      <title><![CDATA[ Televisor 75" 4K UHD Tizen UN75U8000FPCZE Samsung 100065841 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-75-4k-uhd-tizen--un75u8000fpcze-samsung/p?idsku=579 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 1019.12 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 624 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 624 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240445_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240445_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240445_2 ]]></image>
+
+      <title><![CDATA[ Lavadora 22KG Automática WT22OBTX6 LG 100065851 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-22kg-automatica-wt22obtx6-lg/p?idsku=624 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 629.04 ]]></description>
+    </item>
+
+    <!-- ITEM 6 -->
+    <item>
+      <id><![CDATA[ 640 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 640 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240765_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240765_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240765_2 ]]></image>
+
+      <title><![CDATA[ Consola PlayStation 5 HW 2015 Digital GT7+ASTRO 100066053 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/consola-playstation-5-hw-2015-digital-gt7-astro/p?idsku=640 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Videojuegos ]]></category>
+
+      <description><![CDATA[ $ 1259.78 ]]></description>
+    </item>
+
+  </channel>
+</rss>
