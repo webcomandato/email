@@ -1,0 +1,111 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 645 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 645 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240628_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240628_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240628_2 ]]></image>
+
+      <title><![CDATA[ Cocina a Gas 6Q Sorrento Maxgrill Zafiro Indurama 100066170 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocina-a-gas-6q-sorrento-maxgrill-zafiro-indurama/p?idsku=645 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 468.96 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 575 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 575 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239889_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239889_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239889_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 568L Side by Side RI-7568D CR Indurama 100065829 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-568l-side-by-side-ri-7568d-cr-indurama/p?idsku=575 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 870.94 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 740 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 740 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241738_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241738_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241738_2 ]]></image>
+
+      <title><![CDATA[ Campana Extractora Decorativa de Pared Indurama CEI-90VDNRC 520000087 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/campana-extractora-decorativa-de-pared-indurama-cei-90vdnrc/p?idsku=740 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Campanas ]]></category>
+
+      <description><![CDATA[ $ 418.50 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 742 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 742 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241762_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241762_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241762_2 ]]></image>
+
+      <title><![CDATA[ Microondas empotrable Indurama MWI-25NE 520000089 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/-microondas-empotrable-indurama-mwi-25ne/p?idsku=742 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Microondas y Hornos ]]></category>
+
+      <description><![CDATA[ $ 305.11 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 741 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 741 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241742_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241742_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241742_2 ]]></image>
+
+      <title><![CDATA[ Horno a Gas Empotrable Indurama HEI-75GN 520000088 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/horno-a-gas-empotrable-indurama-hei-75gn/p?idsku=741 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Hornos ]]></category>
+
+      <description><![CDATA[ $ 495.78 ]]></description>
+    </item>
+
+    <!-- ITEM 6 -->
+    <item>
+      <id><![CDATA[ 411 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 411 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237910_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237910_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237910_2 ]]></image>
+
+      <title><![CDATA[ Encimera a Gas Indurama 5 quemadores EGI-905VDNE 100065434 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/encimera-a-gas-indurama-5-quemadores-egi-905vdne/p?idsku=411 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Encimeras ]]></category>
+
+      <description><![CDATA[ $ 478.00 ]]></description>
+    </item>
+
+  </channel>
+</rss>
