@@ -1,0 +1,111 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 458 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 458 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238406_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238406_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238406_2 ]]></image>
+
+      <title><![CDATA[ Microonda 30L WM2811D Whirlpool 100065633 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/microonda-whirlpool-wm2811d-30-litros/p?idsku=458 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Microondas y Hornos ]]></category>
+
+      <description><![CDATA[ $ 176.02 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 509 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 509 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239028_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239028_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239028_2 ]]></image>
+
+      <title><![CDATA[ Lavadora 26KG Automática 8MWTW2654WSG Whirlpool 100065757 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-26kg-automatica-8mwtw2654wsg-whirlpool/p?idsku=509 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 702.96 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 35 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 35 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236045_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236045_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236045_2 ]]></image>
+
+      <title><![CDATA[ Torre a Gas de Lavado y Secado 20KG 7MWGT4027HW Whirlpool 100061865 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/torre-de-lavado-a-gas-whirlpool-7mwgt4027hw-44-libras-blanco/p?idsku=35 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 1662.18 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 190 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 190 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236558_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236558_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236558_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 521L Side by Side WD1610S Whirlpool 100064205 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-whirlpool-wd1610s-521-litros-side-by-side/p?idsku=190 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 870.94 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 302 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 302 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237150_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237150_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237150_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 450L Bottom Freezer WRE56CKTWW Whirlpool 100065111 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-whirlpool-bottom-mount-450-litros-wre56cktww/p?idsku=302 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 801.01 ]]></description>
+    </item>
+
+    <!-- ITEM 6 -->
+    <item>
+      <id><![CDATA[ 58 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 58 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237479_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237479_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237479_2 ]]></image>
+
+      <title><![CDATA[ Secadora 19KG Eléctrica 7MWED1900EW Whirlpool 100061917 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/secadora-electrica-whirlpool-7mwed1900ew-42-libras-color-blanco/p?idsku=58 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Secadoras ]]></category>
+
+      <description><![CDATA[ $ 576.94 ]]></description>
+    </item>
+
+  </channel>
+</rss>
