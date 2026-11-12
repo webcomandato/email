@@ -1,0 +1,77 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 440 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 440 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238187_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238187_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238187_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 415L Top Freezer RMP415GEC Mabe 100065489 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer-415-litros-rmp415gec/p?idsku=440 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 579.05 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 293 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 293 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237101_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237101_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237101_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 415L Top Freezer RMP415HEU Mabe 100065088 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer-inox-415-litros-rmp415heu/p?idsku=293 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 567.96 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 294 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 294 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237103_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237103_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237103_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 415L Top Freezer RMP415YEU Mabe 100065090 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer--inox-415-litros-rmp415yeu/p?idsku=294 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 576.00 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 295 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 295 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237115_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237115_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237115_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 470L Top Freezer RMP470YEU Mabe 100065091 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer-inox-470-litros-rmp470yeu/p?idsku=295 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 615.05 ]]></description>
+    </item>
+
+  </channel>
+</rss>
