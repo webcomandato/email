@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 433 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 433 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238137_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238137_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238137_2 ]]></image>
+
+      <title><![CDATA[ Televisor 60" 4K UHD webOS 60UA8500PSA LG 100065551 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-lg-uhd-ai-thinq-4k-webos-60-60ua8500psa/p?idsku=433 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 538.99 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 441 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 441 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238213_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238213_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238213_2 ]]></image>
+
+      <title><![CDATA[ Lavadora 25KG Automática WM25MV2S6W LG 100065070 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-automatica-lg-middle-black-25kg-wm25mv2s6w/p?idsku=441 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 898.92 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 106 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 106 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236264_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236264_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236264_2 ]]></image>
+
+      <title><![CDATA[ Lavadora 15KG Semiautomática WP15WAR LG 100062035 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-semiautomatica-lg-wp15war-15-kg/p?idsku=106 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 279.01 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 209 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 209 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236634_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236634_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236634_2 ]]></image>
+
+      <title><![CDATA[ Torre de Sonido XBOOM LG 500W 2.1 canales RNC5 100064484 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/torre-de-sonido-xboom-lg-500w-2-1-canales-rnc5/p?idsku=209 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes ]]></category>
+
+      <description><![CDATA[ $ 266.00 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 490 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 490 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238802_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238802_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238802_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 263L Top Freezer VT27BPY LG 100065681 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-263l-top-freezer-silver-vt27bpy-lg/p?idsku=490 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 394.99 ]]></description>
+    </item>
+
+  </channel>
+</rss>
