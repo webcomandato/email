@@ -1,0 +1,111 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 280 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 280 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237004_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237004_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237004_2 ]]></image>
+
+      <title><![CDATA[ Televisor 65" 4K UHD Google TV 65P6K TCL 100065064 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-tcl-serie-p-uhd-4k-google-tv-65--65p6k/p?idsku=280 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 638.93 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 278 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 278 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236988_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236988_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236988_2 ]]></image>
+
+      <title><![CDATA[ Televisor 55" 4K UHD Google TV 55P6K TCL 100065062 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-tcl-serie-p-uhd-4k-google-tv-55--55p6k/p?idsku=278 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 474.95 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 734 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 734 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241681_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241681_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241681_2 ]]></image>
+
+      <title><![CDATA[ Lavadora secadora 17KG automática C3617 TCL 100066375 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-secadora-17kg-automatica-c3617-tcl/p?idsku=734 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Secadoras ]]></category>
+
+      <description><![CDATA[ $ 628.95 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 531 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 531 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239326_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239326_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239326_2 ]]></image>
+
+      <title><![CDATA[ 12000 BTU Aire Acondicionado Alta Eficiencia TAC-12CSD/ZG11 TCL 100065821 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/12000-btu-aire-acondicionado-alta-eficiencia-tac-12csd-zg11-tcl/p?idsku=531 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Climatización > Aires Acondicionados ]]></category>
+
+      <description><![CDATA[ $ 319.01 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 532 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 532 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239338_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239338_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239338_2 ]]></image>
+
+      <title><![CDATA[ 36000 BTU Aire Acondicionado Inverter TAC-36CSDI/XA73 TCL 100065820 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/36000-btu-aire-acondicionado-inverter-tac-36csdi-xa73-tcl/p?idsku=532 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Climatización > Aires Acondicionados ]]></category>
+
+      <description><![CDATA[ $ 788.92 ]]></description>
+    </item>
+
+    <!-- ITEM 6 -->
+    <item>
+      <id><![CDATA[ 735 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 735 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241693_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241693_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241693_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 210L Top Freezer TRF-2 TCL 100066374 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-210l-top-freezer-trf-2-tcl/p?idsku=735 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 289.00 ]]></description>
+    </item>
+
+  </channel>
+</rss>
