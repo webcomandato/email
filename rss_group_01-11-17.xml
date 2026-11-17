@@ -1,0 +1,128 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 680 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 680 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241095_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241095_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241095_2 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A56 Negro 256GB 5G LTE Dual SIM 100066253001 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a56-negro-256gb-5g-lte-dual-sim/p?idsku=680 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 469.99 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 679 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 679 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241081_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241081_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241081_2 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A37 Gris 256GB 5G LTE Dual SIM 100066252002 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a37-gris-256gb-4g-lte-dual-sim/p?idsku=679 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 538.00 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 678 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 678 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241071_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241071_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241071_2 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A17 Negro 256GB 4G LTE Dual SIM 100066250002 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a17-negro-256gb-4g-lte-dual-sim/p?idsku=678 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 295.98 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 677 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 677 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241061_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241061_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241061_2 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A07 Negro 128GB 4G LTE Dual SIM 100066239002 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a07-negro-128gb-4g-lte-dual-sim/p?idsku=677 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 159.99 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 720 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 720 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241556_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241556_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241556_2 ]]></image>
+
+      <title><![CDATA[ Celular Honor X-5D Negro 128GB 4G LTE Dual SIM 100066333003 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-honor-x-5d-negro-128gb-4g-lte-dual-sim/p?idsku=720 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 214.98 ]]></description>
+    </item>
+
+    <!-- ITEM 6 -->
+    <item>
+      <id><![CDATA[ 721 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 721 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241562_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241562_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241562_2 ]]></image>
+
+      <title><![CDATA[ Celular Honor X-6E Gold 256GB 4G LTE Dual SIM 100066319002 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-honor-x-6e-gold-256gb-4g-lte-dual-sim/p?idsku=721 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 313.98 ]]></description>
+    </item>
+
+    <!-- ITEM 7 -->
+    <item>
+      <id><![CDATA[ 722 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 722 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241580_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241580_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241580_2 ]]></image>
+
+      <title><![CDATA[ Celular Honor X-7E Azul 256GB 4G LTE Dual SIM 100066330001 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-honor-x-7e-azul-256gb-4g-lte-dual-sim/p?idsku=722 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 381.01 ]]></description>
+    </item>
+
+  </channel>
+</rss>
