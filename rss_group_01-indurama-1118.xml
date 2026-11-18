@@ -1,0 +1,145 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 645 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 645 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240628_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240628_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240628_2 ]]></image>
+
+      <title><![CDATA[ Cocina a Gas 6Q Sorrento Maxgrill Zafiro Indurama 100066170 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocina-a-gas-6q-sorrento-maxgrill-zafiro-indurama/p?idsku=645 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 416.02 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 142 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 142 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236391_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236391_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236391_2 ]]></image>
+
+      <title><![CDATA[ Lavadora 15KG Semiautomática LRI-15BLSA Indurama 100063937 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-semiautomatica-indurama-lri-15blsa-15kg/p?idsku=142 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 275.02 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 461 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 461 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238433_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238433_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238433_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 262L Top Freezer RI-370 NE AVANT Indurama 100065594 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-indurama-top-mount-negro-262-litros-ri-370-avant/p?idsku=461 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 398.99 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 568 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 568 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239718_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239718_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239718_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 300L Top Freezer RI-380 AVANT PLUS Indurama 100065852 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-300l-top-freezer-ri-380-avant-plus-indurama/p?idsku=568 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 409.96 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 613 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 613 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240338_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240338_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240338_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 388L Top Mount RI-475 MF QZ Indurama 100065957 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-388l-top-mount-ri-475-mf-qz-indurama/p?idsku=613 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 537.02 ]]></description>
+    </item>
+
+    <!-- ITEM 6 -->
+    <item>
+      <id><![CDATA[ 673 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 673 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241017_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241017_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241017_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 472L Side by Side RI-7472 CR Indurama 100066261 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-472l-side-by-side-ri-7472-cr-indurama/p?idsku=673 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 626.99 ]]></description>
+    </item>
+
+    <!-- ITEM 7 -->
+    <item>
+      <id><![CDATA[ 673 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 673 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241017_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241017_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241017_2 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 472L Side by Side RI-7472 CR Indurama 100066261 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-472l-side-by-side-ri-7472-cr-indurama/p?idsku=673 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 626.99 ]]></description>
+    </item>
+
+    <!-- ITEM 8 -->
+    <item>
+      <id><![CDATA[ 717 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 717 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241501_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241501_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241501_2 ]]></image>
+
+      <title><![CDATA[ Televisor 65" 4K UHD Google TV 65TIKJ1UHDQLE Indurama 100066318 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-65--4k-uhd-google-tv-65tikj1uhdqle-indurama/p?idsku=717 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 657.03 ]]></description>
+    </item>
+
+  </channel>
+</rss>
