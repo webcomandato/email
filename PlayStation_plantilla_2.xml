@@ -1,0 +1,43 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - PlayStation más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 640 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 640 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240765/Diseno-sin-titulo--8-.png?v=639305494870370000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240765/Diseno-sin-titulo--8-.png?v=639305494870370000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240765/Diseno-sin-titulo--8-.png?v=639305494870370000 ]]></image>
+
+      <title><![CDATA[ Consola PlayStation 5 HW 2015 Digital GT7+ASTRO ]]></title>
+      <link><![CDATA[ https://www.comandato.com/consola-playstation-5-hw-2015-digital-gt7-astro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Videojuegos ]]></category>
+
+      <description><![CDATA[ $ 1075.94 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 508 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 508 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238965/204580-800-800.webp?v=639063561847870000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238965/204580-800-800.webp?v=639063561847870000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238965/204580-800-800.webp?v=639063561847870000 ]]></image>
+
+      <title><![CDATA[ Consola PlayStation 5 CFI 2015 STD GT7+ASTRO ]]></title>
+      <link><![CDATA[ https://www.comandato.com/consola-playstation-5-cfi-2015-std-gt7-astro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Videojuegos ]]></category>
+
+      <description><![CDATA[ $ 1176.11 ]]></description>
+    </item>
+
+  </channel>
+</rss>

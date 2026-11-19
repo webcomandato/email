@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Mabe más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 634 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 634 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240516/1200Wx1200H-A-Mabe-Refrigeracion-480L-Black-Steel-MSE480LPLPS0-Frontal.jpg?v=639148196788200000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240516/1200Wx1200H-A-Mabe-Refrigeracion-480L-Black-Steel-MSE480LPLPS0-Frontal.jpg?v=639148196788200000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240516/1200Wx1200H-A-Mabe-Refrigeracion-480L-Black-Steel-MSE480LPLPS0-Frontal.jpg?v=639148196788200000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 480L Side by Side MSE480LPLPS0 Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-480l-side-by-side-mse480lplps0-mabe/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 672.95 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 594 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 594 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240157/LME1220WDGAB0.png?v=639120563693670000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240157/LME1220WDGAB0.png?v=639120563693670000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240157/LME1220WDGAB0.png?v=639120563693670000 ]]></image>
+
+      <title><![CDATA[ Lavadora 21KG Automática LME1220WDGAB0 Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-21kg-automatica-lme1220wdgab0-mabe/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 467.05 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 295 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 295 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237115/240.jpg?v=638858669884830000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237115/240.jpg?v=638858669884830000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237115/240.jpg?v=638858669884830000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 470L Top Freezer RMP470YEU Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer-inox-470-litros-rmp470yeu/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 615.05 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 243 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 243 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236783/ECOMMERCE-COMANDATO--29-.jpg?v=638858668983600000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236783/ECOMMERCE-COMANDATO--29-.jpg?v=638858668983600000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236783/ECOMMERCE-COMANDATO--29-.jpg?v=638858668983600000 ]]></image>
+
+      <title><![CDATA[ Lavadora 19KG Automática LME9120WDGAB01 Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-automatica-mabe-direct-drive-diamond-gray-19kg-lme9120wdgab01/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 367.05 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 626 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 626 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240480/157256.webp?v=639142128672130000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240480/157256.webp?v=639142128672130000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240480/157256.webp?v=639142128672130000 ]]></image>
+
+      <title><![CDATA[ Microonda 20L HMM07CEBN Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/microonda-20l-hmm07cebn-mabe/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Microondas y Hornos ]]></category>
+
+      <description><![CDATA[ $ 165.57 ]]></description>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - LG más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 744 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 744 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241774/55NU855BPSA.png?v=639277673325230000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241774/55NU855BPSA.png?v=639277673325230000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241774/55NU855BPSA.png?v=639277673325230000 ]]></image>
+
+      <title><![CDATA[ Televisor 85" 4K UHD webOS 85NU855BPSA LG ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-85--4k-uhd-webos-85nu855bpsa-lg/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 1380.05 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 743 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 743 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241770/55NU855BPSA.png?v=639277660199800000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241770/55NU855BPSA.png?v=639277660199800000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241770/55NU855BPSA.png?v=639277660199800000 ]]></image>
+
+      <title><![CDATA[ Televisor 55" 4K UHD webOS 55NU855BPSA LG ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-55--4k-uhd-webos-55nu855bpsa-lg/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 529.97 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 624 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 624 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240445/100065851.png?v=639137674817700000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240445/100065851.png?v=639137674817700000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240445/100065851.png?v=639137674817700000 ]]></image>
+
+      <title><![CDATA[ Lavadora 22KG Automática WT22OBTX6 LG ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-22kg-automatica-wt22obtx6-lg/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 582.97 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 490 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 490 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238802/26.jpg?v=639032338235370000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238802/26.jpg?v=639032338235370000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238802/26.jpg?v=639032338235370000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 263L Top Freezer VT27BPY LG ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-263l-top-freezer-silver-vt27bpy-lg/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 394.99 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 475 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 475 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238589/100065441.png?v=638998780819400000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238589/100065441.png?v=638998780819400000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238589/100065441.png?v=638998780819400000 ]]></image>
+
+      <title><![CDATA[ Televisor 75" 4K UHD webOS 75UA8500PSA LG ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-lg-uhd-ai-thinq-4k-webos-75-75ua8500psa/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 948.91 ]]></description>
+    </item>
+
+  </channel>
+</rss>

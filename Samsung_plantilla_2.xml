@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Samsung más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 679 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 679 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241081/SAM-A37-5G-256-BK-2.webp?v=639233762940200000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241081/SAM-A37-5G-256-BK-2.webp?v=639233762940200000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241081/SAM-A37-5G-256-BK-2.webp?v=639233762940200000 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A37 Gris 256GB 5G LTE Dual SIM ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a37-gris-256gb-4g-lte-dual-sim/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 545.00 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 678 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 678 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241071/174487-1200-auto.png?v=639233682961770000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241071/174487-1200-auto.png?v=639233682961770000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241071/174487-1200-auto.png?v=639233682961770000 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A17 Negro 256GB 4G LTE Dual SIM ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a17-negro-256gb-4g-lte-dual-sim/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 295.98 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 677 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 677 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241061/174357-1200-auto.png?v=639233616555300000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241061/174357-1200-auto.png?v=639233616555300000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241061/174357-1200-auto.png?v=639233616555300000 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A07 Negro 128GB 4G LTE Dual SIM ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a07-negro-128gb-4g-lte-dual-sim/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 159.99 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 595 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 595 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240166/Televisor-65-4K-UHD-Tizen-UN65U8000FPCZE-Samsung.png?v=639120575989400000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240166/Televisor-65-4K-UHD-Tizen-UN65U8000FPCZE-Samsung.png?v=639120575989400000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240166/Televisor-65-4K-UHD-Tizen-UN65U8000FPCZE-Samsung.png?v=639120575989400000 ]]></image>
+
+      <title><![CDATA[ Televisor 55" 4K UHD Tizen UN55U8000FPCZE Samsung ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-55--4k-uhd-tizen-un55u8000fpcze-samsung/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 455.06 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 579 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 579 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239931/Televisor-65-4K-UHD-Tizen-UN65U8000FPCZE-Samsung.png?v=639111029542930000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239931/Televisor-65-4K-UHD-Tizen-UN65U8000FPCZE-Samsung.png?v=639111029542930000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239931/Televisor-65-4K-UHD-Tizen-UN65U8000FPCZE-Samsung.png?v=639111029542930000 ]]></image>
+
+      <title><![CDATA[ Televisor 75" 4K UHD Tizen UN75U8000FPCZE Samsung ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-75-4k-uhd-tizen--un75u8000fpcze-samsung/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 919.05 ]]></description>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Watson más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 217 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 217 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236661/117.jpg?v=638858668645700000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236661/117.jpg?v=638858668645700000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236661/117.jpg?v=638858668645700000 ]]></image>
+
+      <title><![CDATA[ Licuadora Portátil Watson Blanco 300 ml BL2038-GS ]]></title>
+      <link><![CDATA[ https://www.comandato.com/licuadora-portatil-watson-blanco-300-ml-bl2038-gs/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Preparación de Bebidas ]]></category>
+
+      <description><![CDATA[ $ 29.00 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 216 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 216 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236660/397.jpg?v=638858668643100000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236660/397.jpg?v=638858668643100000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236660/397.jpg?v=638858668643100000 ]]></image>
+
+      <title><![CDATA[ Hornilla Watson Eléctrica Blanco 2 Q ]]></title>
+      <link><![CDATA[ https://www.comandato.com/hornilla-watson-electrica-blanco-2-q-/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Esenciales y Accesorios de Cocina ]]></category>
+
+      <description><![CDATA[ $ 29.00 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 215 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 215 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236659/396.jpg?v=638858668640430000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236659/396.jpg?v=638858668640430000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236659/396.jpg?v=638858668640430000 ]]></image>
+
+      <title><![CDATA[ Hornilla Watson Eléctrica Blanco 1 Q ]]></title>
+      <link><![CDATA[ https://www.comandato.com/hornilla-watson-electrica-blanco-1-q-/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Esenciales y Accesorios de Cocina ]]></category>
+
+      <description><![CDATA[ $ 19.00 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 214 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 214 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236657/107.jpg?v=638858668635730000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236657/107.jpg?v=638858668635730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236657/107.jpg?v=638858668635730000 ]]></image>
+
+      <title><![CDATA[ Máquina de Café Watson Negro 1.5 litros CM8501D-GS ]]></title>
+      <link><![CDATA[ https://www.comandato.com/maquina-de-cafe-watson-negro-1-5-litros-cm8501d-gs/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Preparación de Bebidas ]]></category>
+
+      <description><![CDATA[ $ 96.00 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 213 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 213 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236654/120.jpg?v=638858668628600000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236654/120.jpg?v=638858668628600000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236654/120.jpg?v=638858668628600000 ]]></image>
+
+      <title><![CDATA[ Hervidor Eléctrico Watson Metal 1.7 litros MK-17S32A ]]></title>
+      <link><![CDATA[ https://www.comandato.com/hervidor-electrico-watson-metal-1-7-litros-mk-17s32a/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Preparación de Bebidas ]]></category>
+
+      <description><![CDATA[ $ 15.00 ]]></description>
+    </item>
+
+  </channel>
+</rss>

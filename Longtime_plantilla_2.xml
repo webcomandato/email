@@ -1,0 +1,26 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Longtime más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 585 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 585 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240018/12000-BTU-Aire-Acondicionado-Inverter-Longtime.png?v=639111897493730000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240018/12000-BTU-Aire-Acondicionado-Inverter-Longtime.png?v=639111897493730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240018/12000-BTU-Aire-Acondicionado-Inverter-Longtime.png?v=639111897493730000 ]]></image>
+
+      <title><![CDATA[ 24000 BTU Aire Acondicionado Inverter Longtime ]]></title>
+      <link><![CDATA[ https://www.comandato.com/24000-btu-aire-acondicionado-inverter-longtime/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Climatización > Aires Acondicionados ]]></category>
+
+      <description><![CDATA[ $ 570.01 ]]></description>
+    </item>
+
+  </channel>
+</rss>

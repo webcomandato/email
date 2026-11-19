@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Mabe más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 593 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 593 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240137/Diseno-sin-titulo.png?v=639120546041730000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240137/Diseno-sin-titulo.png?v=639120546041730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240137/Diseno-sin-titulo.png?v=639120546041730000 ]]></image>
+
+      <title><![CDATA[ Frigobar Mabe RMF04BRX1 90 Litros ]]></title>
+      <link><![CDATA[ https://www.comandato.com/frigobar-mabe-rmf04brx1-90-litros/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Frigobares ]]></category>
+
+      <description><![CDATA[ $ 186.98 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 567 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 567 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239710/MCL2440PSBB0.png?v=639107604676700000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239710/MCL2440PSBB0.png?v=639107604676700000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239710/MCL2440PSBB0.png?v=639107604676700000 ]]></image>
+
+      <title><![CDATA[ Torre a Gas de Lavado y Secado 24KG MCL2440PSBB0 Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/torre-a-gas-de-lavado-y-secado-24kg-mcl2440psbb0-mabe/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 1429.14 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 440 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 440 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238187/Refrigeradora-Mabe-Top-Freezer-415-Litros-RMP415GEC.png?v=638972805740330000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238187/Refrigeradora-Mabe-Top-Freezer-415-Litros-RMP415GEC.png?v=638972805740330000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238187/Refrigeradora-Mabe-Top-Freezer-415-Litros-RMP415GEC.png?v=638972805740330000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 415L Top Freezer RMP415GEC Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer-415-litros-rmp415gec/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 579.05 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 439 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 439 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240805/Diseno sin titulo -13-.png?v=639177402249100000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240805/Diseno sin titulo -13-.png?v=639177402249100000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240805/Diseno sin titulo -13-.png?v=639177402249100000 ]]></image>
+
+      <title><![CDATA[ Cocina a Gas 4Q EM6040FN0 Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocina-mabe-a-gas-4-q-em6040fn0/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 264.98 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 294 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 294 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237103/240.jpg?v=638858669852970000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237103/240.jpg?v=638858669852970000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237103/240.jpg?v=638858669852970000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 415L Top Freezer RMP415YEU Mabe ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-mabe-top-freezer--inox-415-litros-rmp415yeu/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 558.01 ]]></description>
+    </item>
+
+  </channel>
+</rss>

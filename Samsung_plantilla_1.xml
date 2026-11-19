@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Samsung más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 466 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 466 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238489/UN43U8000FPCZE-1.png?v=638992530757400000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238489/UN43U8000FPCZE-1.png?v=638992530757400000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238489/UN43U8000FPCZE-1.png?v=638992530757400000 ]]></image>
+
+      <title><![CDATA[ Televisor 43" 4K UHD Tizen UN43U8000FPCZE Samsung ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-samsung-crystal-uhd-4k-tizen-smart-tv-43-un43u8000fpcze/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 289.00 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 297 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 297 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237129/299.jpg?v=638858669926800000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237129/299.jpg?v=638858669926800000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237129/299.jpg?v=638858669926800000 ]]></image>
+
+      <title><![CDATA[ Secadora 24KG Eléctrica DVE24DG800VAP Samsung ]]></title>
+      <link><![CDATA[ https://www.comandato.com/secadora-electrica-samsung-black-24kg-dve24dg800vap/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Secadoras ]]></category>
+
+      <description><![CDATA[ $ 790.06 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 128 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 128 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238484/Diseno-sin-titulo--18-.jpg?v=638992096696630000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238484/Diseno-sin-titulo--18-.jpg?v=638992096696630000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238484/Diseno-sin-titulo--18-.jpg?v=638992096696630000 ]]></image>
+
+      <title><![CDATA[ Cocina a Gas 5Q NX52T7522LS/AP  Samsung ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocina-a-gas-samsung-nx52t7522ls-ap-5-hornillas/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 488.00 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 772 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 772 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/242120/rs40h53wdted_001_front_gentle-silver.png?v=639298482788600000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/242120/rs40h53wdted_001_front_gentle-silver.png?v=639298482788600000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/242120/rs40h53wdted_001_front_gentle-silver.png?v=639298482788600000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 546L Side by Side RS40H53WDTED Samsung ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-546l-side-by-side-rs40h53wdted-samsung/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 799.04 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 680 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 680 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241095/Celular Samsung A56 Negro 256GB 5G LTE Dual SIM.png?v=639233802400600000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241095/Celular Samsung A56 Negro 256GB 5G LTE Dual SIM.png?v=639233802400600000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241095/Celular Samsung A56 Negro 256GB 5G LTE Dual SIM.png?v=639233802400600000 ]]></image>
+
+      <title><![CDATA[ Celular Samsung A56 Negro 256GB 5G LTE Dual SIM ]]></title>
+      <link><![CDATA[ https://www.comandato.com/celular-samsung-a56-negro-256gb-5g-lte-dual-sim/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Celulares ]]></category>
+
+      <description><![CDATA[ $ 489.98 ]]></description>
+    </item>
+
+  </channel>
+</rss>

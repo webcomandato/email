@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Tekocsa más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 667 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 667 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240937/hp-15-fc0279la-b9tr8la-frente-pantalla-156-fhd-ryzen7-cemco.webp?v=639207713195730000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240937/hp-15-fc0279la-b9tr8la-frente-pantalla-156-fhd-ryzen7-cemco.webp?v=639207713195730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240937/hp-15-fc0279la-b9tr8la-frente-pantalla-156-fhd-ryzen7-cemco.webp?v=639207713195730000 ]]></image>
+
+      <title><![CDATA[ Laptop HP AMD Ryzen 7 15.6" 16GB 1TB 15-FC0279LA ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-hp-amd-ryzen-7-15-6-16gb-1tb-15-fc0279la/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 1076.01 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 666 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 666 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240928/LAPTOP-LENOVO-IP-SLIM-3-15ARP10-R7.jpg?v=639207659483370000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240928/LAPTOP-LENOVO-IP-SLIM-3-15ARP10-R7.jpg?v=639207659483370000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240928/LAPTOP-LENOVO-IP-SLIM-3-15ARP10-R7.jpg?v=639207659483370000 ]]></image>
+
+      <title><![CDATA[ Laptop Lenovo ideapad slim 3 AMD Ryzen 7 15.3" 16GB 512GB 15ARP10 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-15-16gb-512gb-15arp10/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 992.94 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 639 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 639 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240593/02-lenovo-ips3-15irh10-i7-13620h-lencompor83k100qclmw-epsimpecoc11cj71301-gris-side.webp?v=639154984615130000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240593/02-lenovo-ips3-15irh10-i7-13620h-lencompor83k100qclmw-epsimpecoc11cj71301-gris-side.webp?v=639154984615130000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240593/02-lenovo-ips3-15irh10-i7-13620h-lencompor83k100qclmw-epsimpecoc11cj71301-gris-side.webp?v=639154984615130000 ]]></image>
+
+      <title><![CDATA[ Laptop Lenovo CORE I7 15.6" 16GB 512GB 15IRH10 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-lenovo-core-i7-15-16gb-512gb-15irh10/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 1107.91 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 638 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 638 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240556/laptop-ideapad-slim-3-amd-r3-732.webp?v=639149928561330000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240556/laptop-ideapad-slim-3-amd-r3-732.webp?v=639149928561330000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240556/laptop-ideapad-slim-3-amd-r3-732.webp?v=639149928561330000 ]]></image>
+
+      <title><![CDATA[ Laptop Lenovo AMD Ryzen 5 15.6" 8GB 500GB 15AMN8 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-lenovo-amd-ryzen-5-15-8gb-500gb-15amn8/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 841.01 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 637 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 637 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240546/laptop-ideapad-slim-3-amd-r3-732.webp?v=639149906096670000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240546/laptop-ideapad-slim-3-amd-r3-732.webp?v=639149906096670000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240546/laptop-ideapad-slim-3-amd-r3-732.webp?v=639149906096670000 ]]></image>
+
+      <title><![CDATA[ Laptop Lenovo AMD Ryzen 3 15.6" 8GB 512GB 15AMN8 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-lenovo-amd-ryzen-3-15-8gb-512gb-15amn8/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 667.97 ]]></description>
+    </item>
+
+  </channel>
+</rss>

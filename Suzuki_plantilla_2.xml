@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Suzuki más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 726 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 726 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241617/Moto-Suzuki-Vstrom-800-6-Velocidades-y.jpg?v=639262099501400000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241617/Moto-Suzuki-Vstrom-800-6-Velocidades-y.jpg?v=639262099501400000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241617/Moto-Suzuki-Vstrom-800-6-Velocidades-y.jpg?v=639262099501400000 ]]></image>
+
+      <title><![CDATA[ Moto Suzuki Vstrom 800 6 Velocidades ]]></title>
+      <link><![CDATA[ https://www.comandato.com/moto-suzuki-vstrom-800-6-velocidades/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Suzuki Motos ]]></category>
+
+      <description><![CDATA[ $ 18487.49 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 725 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 725 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241650/Moto Suzuki GSX R150C 6 Velocidades.png?v=639263708341800000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241650/Moto Suzuki GSX R150C 6 Velocidades.png?v=639263708341800000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241650/Moto Suzuki GSX R150C 6 Velocidades.png?v=639263708341800000 ]]></image>
+
+      <title><![CDATA[ Moto Suzuki GSX R150C 6 Velocidades ]]></title>
+      <link><![CDATA[ https://www.comandato.com/moto-suzuki-gsx-r150c-6-velocidades/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Suzuki Motos ]]></category>
+
+      <description><![CDATA[ $ 5760.01 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 723 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 723 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241585/MOTOS-FOTOS.jpg?v=639258652215670000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241585/MOTOS-FOTOS.jpg?v=639258652215670000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241585/MOTOS-FOTOS.jpg?v=639258652215670000 ]]></image>
+
+      <title><![CDATA[ Moto Utilitaria Suzuki GN125F ]]></title>
+      <link><![CDATA[ https://www.comandato.com/moto-utilitaria-suzuki-gn125f/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Suzuki Motos ]]></category>
+
+      <description><![CDATA[ $ 3599.99 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 565 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 565 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239677/GSX125.png?v=639105926766900000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239677/GSX125.png?v=639105926766900000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239677/GSX125.png?v=639105926766900000 ]]></image>
+
+      <title><![CDATA[ Moto Naked Suzuki GSX 125 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/moto-suzuki-gsx-125--5-velocidades/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Suzuki Motos ]]></category>
+
+      <description><![CDATA[ $ 3700.00 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 564 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 564 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240013/Moto-Suzuki-GD-115-Evolution--4-Velocidades.png?v=639111862908470000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240013/Moto-Suzuki-GD-115-Evolution--4-Velocidades.png?v=639111862908470000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240013/Moto-Suzuki-GD-115-Evolution--4-Velocidades.png?v=639111862908470000 ]]></image>
+
+      <title><![CDATA[ Moto Utilitaria Suzuki GD 115 Evolution ]]></title>
+      <link><![CDATA[ https://www.comandato.com/moto-suzuki-gd-115-evolution--4-velocidades/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Suzuki Motos ]]></category>
+
+      <description><![CDATA[ $ 2940.00 ]]></description>
+    </item>
+
+  </channel>
+</rss>

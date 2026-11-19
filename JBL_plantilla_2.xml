@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - JBL más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 660 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 660 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240842/D_NQ_NP_2X_957146-MLA95496260009_102025-F.webp?v=639189544977700000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240842/D_NQ_NP_2X_957146-MLA95496260009_102025-F.webp?v=639189544977700000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240842/D_NQ_NP_2X_957146-MLA95496260009_102025-F.webp?v=639189544977700000 ]]></image>
+
+      <title><![CDATA[ Parlante JBL PartyBox 520 Negro 15 h + radio JBL ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-jbl-partybox-520-negro-15-h-radio-jbl/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes portátiles ]]></category>
+
+      <description><![CDATA[ $ 845.03 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 657 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 657 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240796/Parlante-portatil-SAMSUNG-MX-ST40F-Negro.png?v=639177392926270000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240796/Parlante-portatil-SAMSUNG-MX-ST40F-Negro.png?v=639177392926270000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240796/Parlante-portatil-SAMSUNG-MX-ST40F-Negro.png?v=639177392926270000 ]]></image>
+
+      <title><![CDATA[ Parlante portátil SAMSUNG MX-ST40F Negro ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-portatil-samsung-mx-st40f-negro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes portátiles ]]></category>
+
+      <description><![CDATA[ $ 449.04 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 598 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 598 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240206/JBLT530BT JBL AZUL.png?v=639125690828000000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240206/JBLT530BT JBL AZUL.png?v=639125690828000000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240206/JBLT530BT JBL AZUL.png?v=639125690828000000 ]]></image>
+
+      <title><![CDATA[ Audífonos inalámbricos JBL JBLT530BT Azul Bluetooth con micrófono ]]></title>
+      <link><![CDATA[ https://www.comandato.com/audifonos-inalambricos-jbl-jblt530bt-azul-bluetooth-con-microfono/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Audífonos ]]></category>
+
+      <description><![CDATA[ $ 61.00 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 597 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 597 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240188/AUDIFONO-T530BT.png?v=639123199546670000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240188/AUDIFONO-T530BT.png?v=639123199546670000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240188/AUDIFONO-T530BT.png?v=639123199546670000 ]]></image>
+
+      <title><![CDATA[ Audífonos inalámbricos JBL JBLT530BT Negro Bluetooth con micrófono ]]></title>
+      <link><![CDATA[ https://www.comandato.com/audifonos-inalambricos-jbl-jblt530bt-negro-bluetooth-con-microfono/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Audífonos ]]></category>
+
+      <description><![CDATA[ $ 61.00 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 596 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 596 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240177/Audifonos-JBL-JBLT530-Negro.png?v=639123201330800000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240177/Audifonos-JBL-JBLT530-Negro.png?v=639123201330800000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240177/Audifonos-JBL-JBLT530-Negro.png?v=639123201330800000 ]]></image>
+
+      <title><![CDATA[ Audífonos JBL JBLT530 Negro con cable 3.5 mm, Pure Bass y micrófono ]]></title>
+      <link><![CDATA[ https://www.comandato.com/audifonos-jbl-jblt530-negro-con-cable/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Audífonos ]]></category>
+
+      <description><![CDATA[ $ 49.99 ]]></description>
+    </item>
+
+  </channel>
+</rss>

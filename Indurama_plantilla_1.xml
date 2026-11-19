@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Indurama más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 687 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 687 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241168/163942-1200-auto.png?v=639235443410100000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241168/163942-1200-auto.png?v=639235443410100000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241168/163942-1200-auto.png?v=639235443410100000 ]]></image>
+
+      <title><![CDATA[ 12000 BTU Aire Acondicionado Alta Eficiencia ASI-126A Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/12000-btu-aire-acondicionado-alta-eficiencia-asi-126a-indurama/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Climatización > Aires Acondicionados ]]></category>
+
+      <description><![CDATA[ $ 289.00 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 568 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 568 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239718/RI-380.png?v=639107637093430000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239718/RI-380.png?v=639107637093430000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239718/RI-380.png?v=639107637093430000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 300L Top Freezer RI-380 AVANT PLUS Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-300l-top-freezer-ri-380-avant-plus-indurama/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 399.03 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 146 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 146 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236404/100063942-1.jpg?v=638858668009230000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236404/100063942-1.jpg?v=638858668009230000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236404/100063942-1.jpg?v=638858668009230000 ]]></image>
+
+      <title><![CDATA[ Microonda 20L MWI-20BL Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/microonda-indurama-mwi-20bl-20/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Microondas y Hornos ]]></category>
+
+      <description><![CDATA[ $ 93.99 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 125 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 125 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238862/Diseno-sin-titulo--3-.jpg?v=639124895517800000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238862/Diseno-sin-titulo--3-.jpg?v=639124895517800000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238862/Diseno-sin-titulo--3-.jpg?v=639124895517800000 ]]></image>
+
+      <title><![CDATA[ Cocina a Gas 4Q Cadiz Spazio Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocina-a-gas-indurama-cadiz-spazio-4-hornillas/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 175.00 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 673 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 673 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241017/159062.webp?v=639227701866030000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241017/159062.webp?v=639227701866030000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241017/159062.webp?v=639227701866030000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 472L Side by Side RI-7472 CR Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-472l-side-by-side-ri-7472-cr-indurama/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 626.99 ]]></description>
+    </item>
+
+  </channel>
+</rss>

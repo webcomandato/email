@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Indurama más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 648 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 648 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240655/100066174.png?v=639167269272970000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240655/100066174.png?v=639167269272970000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240655/100066174.png?v=639167269272970000 ]]></image>
+
+      <title><![CDATA[ Cocina a Gas 4Q Ferrara MaxGrill Zafiro Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocina-a-gas-4q-ferrara-maxgrill-zafiro-indurama/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 317.96 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 32 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 32 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236023/congelador-indurama-ci-400-400-litros.jpg?v=638858667009730000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236023/congelador-indurama-ci-400-400-litros.jpg?v=638858667009730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236023/congelador-indurama-ci-400-400-litros.jpg?v=638858667009730000 ]]></image>
+
+      <title><![CDATA[ Congelador Indurama CI-400 400 Litros ]]></title>
+      <link><![CDATA[ https://www.comandato.com/congelador-indurama-ci-400/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Congeladores y Vitrinas ]]></category>
+
+      <description><![CDATA[ $ 658.97 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 717 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 717 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241501/65TIKJ1UHDQLE.png?v=639256897552300000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241501/65TIKJ1UHDQLE.png?v=639256897552300000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241501/65TIKJ1UHDQLE.png?v=639256897552300000 ]]></image>
+
+      <title><![CDATA[ Televisor 65" 4K UHD Google TV 65TIKJ1UHDQLE Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-65--4k-uhd-google-tv-65tikj1uhdqle-indurama/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 657.03 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 703 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 703 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241390/Cocina a Gas 5Q Turin Zafiro S01 C30 Indurama-2.png?v=639251863081870000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241390/Cocina a Gas 5Q Turin Zafiro S01 C30 Indurama-2.png?v=639251863081870000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241390/Cocina a Gas 5Q Turin Zafiro S01 C30 Indurama-2.png?v=639251863081870000 ]]></image>
+
+      <title><![CDATA[ Cocina a Gas 5Q Turin Zafiro S01 C30 Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocina-a-gas-5q-turin-zafiro-s01-c30-indurama/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 458.95 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 663 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 663 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240884/100066240-LED-SMART-4K-50TIKJ1UHDQLED-INDURAMA.png?v=639201796830470000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240884/100066240-LED-SMART-4K-50TIKJ1UHDQLED-INDURAMA.png?v=639201796830470000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240884/100066240-LED-SMART-4K-50TIKJ1UHDQLED-INDURAMA.png?v=639201796830470000 ]]></image>
+
+      <title><![CDATA[ Televisor 50" 4K QLED Google TV 50TIKJ1UHDQLED Indurama ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-50-4k-qled-google-tv-50tikj1uhdqled-indurama/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 459.01 ]]></description>
+    </item>
+
+  </channel>
+</rss>

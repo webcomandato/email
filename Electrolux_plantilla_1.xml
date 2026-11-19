@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Electrolux más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 691 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 691 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241225/Refrigeradora-419L-Side-by-Side-ERS45F3Q5EB-Electrolux.webp?v=639246680026900000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241225/Refrigeradora-419L-Side-by-Side-ERS45F3Q5EB-Electrolux.webp?v=639246680026900000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241225/Refrigeradora-419L-Side-by-Side-ERS45F3Q5EB-Electrolux.webp?v=639246680026900000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 419L Side by Side ERS45F3Q5EB Electrolux ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-419l-side-by-side-ers45f3q5eb-electrolux/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 599.05 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 769 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 769 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/242079/160338-1000-1000.webp?v=639289087081270000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/242079/160338-1000-1000.webp?v=639289087081270000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/242079/160338-1000-1000.webp?v=639289087081270000 ]]></image>
+
+      <title><![CDATA[ Aspiradora vertical Electrolux STK12 1000W Negro ]]></title>
+      <link><![CDATA[ https://www.comandato.com/aspiradora-vertical-electrolux-stk12-1000w-negro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Hogar y Limpieza > Limpieza de Superficies Interiores ]]></category>
+
+      <description><![CDATA[ $ 40.01 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 697 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 697 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241325/Aspiradora Electrolux ABS05 1500W Azul.webp?v=639247410281900000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241325/Aspiradora Electrolux ABS05 1500W Azul.webp?v=639247410281900000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241325/Aspiradora Electrolux ABS05 1500W Azul.webp?v=639247410281900000 ]]></image>
+
+      <title><![CDATA[ Aspiradora Electrolux ABS05 1500W Azul ]]></title>
+      <link><![CDATA[ https://www.comandato.com/aspiradora-electrolux-abs05-1500w-azul/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Hogar y Limpieza > Limpieza de Superficies Interiores ]]></category>
+
+      <description><![CDATA[ $ 85.00 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 696 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 696 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241314/EBS20.webp?v=639246766360870000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241314/EBS20.webp?v=639246766360870000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241314/EBS20.webp?v=639246766360870000 ]]></image>
+
+      <title><![CDATA[ Licuadora Electrolux EBS20 | 1.5 Litros ]]></title>
+      <link><![CDATA[ https://www.comandato.com/licuadora-electrolux-ebs20-1-5-litros/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Esenciales y Accesorios de Cocina ]]></category>
+
+      <description><![CDATA[ $ 45.00 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 695 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 695 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241302/EAF45.webp?v=639246757937130000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241302/EAF45.webp?v=639246757937130000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241302/EAF45.webp?v=639246757937130000 ]]></image>
+
+      <title><![CDATA[ Freidora de aire Electrolux Negro 5.6 litros EAF45 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/freidora-de-aire-electrolux-negro-5-6-litros-eaf45/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Freidoras de Aire ]]></category>
+
+      <description><![CDATA[ $ 85.00 ]]></description>
+    </item>
+
+  </channel>
+</rss>

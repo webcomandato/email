@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Tekocsa más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 603 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 603 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240251/100065863.png?v=639129218761700000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240251/100065863.png?v=639129218761700000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240251/100065863.png?v=639129218761700000 ]]></image>
+
+      <title><![CDATA[ Laptop Asus Intel Core i5-120U 15.6" 12GB 512GB X1504VA-BQ130 + Mochila y Mouse ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-asus-intel-core-i5-120u-12gb-512gb-x1504va-bq130/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 791.06 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 193 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 193 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236576/04-asus-i7-asucomporx1504za-nj981w-azul-other.jpg?v=638858668396600000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236576/04-asus-i7-asucomporx1504za-nj981w-azul-other.jpg?v=638858668396600000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236576/04-asus-i7-asucomporx1504za-nj981w-azul-other.jpg?v=638858668396600000 ]]></image>
+
+      <title><![CDATA[ Laptop Asus Intel® Core™ i3-1215U 15.6" 8GB 512GB X1504ZA + Mochila y Mouse ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-asus-x1504za-intel-i3-512gb-m2/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 634.01 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 667 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 667 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240937/hp-15-fc0279la-b9tr8la-frente-pantalla-156-fhd-ryzen7-cemco.webp?v=639207713195730000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240937/hp-15-fc0279la-b9tr8la-frente-pantalla-156-fhd-ryzen7-cemco.webp?v=639207713195730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240937/hp-15-fc0279la-b9tr8la-frente-pantalla-156-fhd-ryzen7-cemco.webp?v=639207713195730000 ]]></image>
+
+      <title><![CDATA[ Laptop HP AMD Ryzen 7 15.6" 16GB 1TB 15-FC0279LA ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-hp-amd-ryzen-7-15-6-16gb-1tb-15-fc0279la/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 1076.01 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 666 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 666 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240928/LAPTOP-LENOVO-IP-SLIM-3-15ARP10-R7.jpg?v=639207659483370000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240928/LAPTOP-LENOVO-IP-SLIM-3-15ARP10-R7.jpg?v=639207659483370000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240928/LAPTOP-LENOVO-IP-SLIM-3-15ARP10-R7.jpg?v=639207659483370000 ]]></image>
+
+      <title><![CDATA[ Laptop Lenovo ideapad slim 3 AMD Ryzen 7 15.3" 16GB 512GB 15ARP10 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-15-16gb-512gb-15arp10/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 992.94 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 639 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 639 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240593/02-lenovo-ips3-15irh10-i7-13620h-lencompor83k100qclmw-epsimpecoc11cj71301-gris-side.webp?v=639154984615130000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240593/02-lenovo-ips3-15irh10-i7-13620h-lencompor83k100qclmw-epsimpecoc11cj71301-gris-side.webp?v=639154984615130000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240593/02-lenovo-ips3-15irh10-i7-13620h-lencompor83k100qclmw-epsimpecoc11cj71301-gris-side.webp?v=639154984615130000 ]]></image>
+
+      <title><![CDATA[ Laptop Lenovo CORE I7 15.6" 16GB 512GB 15IRH10 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/laptop-lenovo-core-i7-15-16gb-512gb-15irh10/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Laptops ]]></category>
+
+      <description><![CDATA[ $ 1107.91 ]]></description>
+    </item>
+
+  </channel>
+</rss>

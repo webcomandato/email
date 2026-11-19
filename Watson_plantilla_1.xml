@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Watson más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 609 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 609 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240295/100065923.png?v=639130003886230000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240295/100065923.png?v=639130003886230000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240295/100065923.png?v=639130003886230000 ]]></image>
+
+      <title><![CDATA[ Batidora de inmersion Watson 3 en 1 d-8503b ]]></title>
+      <link><![CDATA[ https://www.comandato.com/batidora-de-inmersion-watson-3-en-1-d-8503b/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Esenciales y Accesorios de Cocina ]]></category>
+
+      <description><![CDATA[ $ 32.00 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 617 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 617 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240380/ms_154420000_1_1.webp?v=639130946857430000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240380/ms_154420000_1_1.webp?v=639130946857430000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240380/ms_154420000_1_1.webp?v=639130946857430000 ]]></image>
+
+      <title><![CDATA[ Olla Arrocera Watson B25082501 Negro 1.8 litros ]]></title>
+      <link><![CDATA[ https://www.comandato.com/olla-arrocera-watson-b25082501-negro-1-litro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Esenciales y Accesorios de Cocina ]]></category>
+
+      <description><![CDATA[ $ 43.00 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 370 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 370 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237512/NO-TOCAR---CATALOGO-2--15-.jpg?v=638877563930230000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237512/NO-TOCAR---CATALOGO-2--15-.jpg?v=638877563930230000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237512/NO-TOCAR---CATALOGO-2--15-.jpg?v=638877563930230000 ]]></image>
+
+      <title><![CDATA[ Batidora de mano Watson 5 velocidades ]]></title>
+      <link><![CDATA[ https://www.comandato.com/batidora-de-mano-watson--5-velocidades/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Esenciales y Accesorios de Cocina ]]></category>
+
+      <description><![CDATA[ $ 19.00 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 290 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 290 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237092/211.jpg?v=638858669829000000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237092/211.jpg?v=638858669829000000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237092/211.jpg?v=638858669829000000 ]]></image>
+
+      <title><![CDATA[ Exprimidor Watson Negro 0.8 litros ]]></title>
+      <link><![CDATA[ https://www.comandato.com/exprimidor-watson-negro-0-8-litros/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Esenciales y Accesorios de Cocina ]]></category>
+
+      <description><![CDATA[ $ 19.00 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 273 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 273 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236964/202.jpg?v=638858669496670000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236964/202.jpg?v=638858669496670000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236964/202.jpg?v=638858669496670000 ]]></image>
+
+      <title><![CDATA[ Cocineta a Gas 4Q W101 Watson ]]></title>
+      <link><![CDATA[ https://www.comandato.com/cocineta-watson-a-gas-inox-4-q-w101/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Cocinas ]]></category>
+
+      <description><![CDATA[ $ 65.01 ]]></description>
+    </item>
+
+  </channel>
+</rss>

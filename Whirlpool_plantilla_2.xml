@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Whirlpool más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 601 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 601 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240242/100065844.png?v=639129178548300000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240242/100065844.png?v=639129178548300000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240242/100065844.png?v=639129178548300000 ]]></image>
+
+      <title><![CDATA[ Lavadora 22KG Automática 8MWTW2244WS Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-22kg-automatica-8mwtw2244ws-whirlpool/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 562.97 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 491 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 491 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238818/42.jpg?v=639033358807830000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238818/42.jpg?v=639033358807830000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238818/42.jpg?v=639033358807830000 ]]></image>
+
+      <title><![CDATA[ Congelador 198L Horizontal Dual Cooling WCF2107Q Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/congelador-198l-horizontal-dual-cooling-wcf2107q-whirlpool/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Congeladores y Vitrinas ]]></category>
+
+      <description><![CDATA[ $ 289.02 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 458 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 458 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238406/Microonda--Whirlpool-WM2811D-30-Litros.png?v=639008241475170000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238406/Microonda--Whirlpool-WM2811D-30-Litros.png?v=639008241475170000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238406/Microonda--Whirlpool-WM2811D-30-Litros.png?v=639008241475170000 ]]></image>
+
+      <title><![CDATA[ Microonda 30L WM2811D Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/microonda-whirlpool-wm2811d-30-litros/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Microondas y Hornos ]]></category>
+
+      <description><![CDATA[ $ 166.99 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 302 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 302 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237150/402.jpg?v=638858669975900000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237150/402.jpg?v=638858669975900000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237150/402.jpg?v=638858669975900000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 450L Bottom Freezer WRE56CKTWW Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-whirlpool-bottom-mount-450-litros-wre56cktww/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 742.93 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 190 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 190 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236558/158126-1600-1600.jpg?v=638858668345530000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236558/158126-1600-1600.jpg?v=638858668345530000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236558/158126-1600-1600.jpg?v=638858668345530000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 521L Side by Side WD1610S Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-whirlpool-wd1610s-521-litros-side-by-side/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 811.98 ]]></description>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Whirlpool más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 759 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 759 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/242017/horno-de-microondas-30l-1-1-pies-cubicos-gris-wm1811d-1.jpg?v=639281305907870000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/242017/horno-de-microondas-30l-1-1-pies-cubicos-gris-wm1811d-1.jpg?v=639281305907870000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/242017/horno-de-microondas-30l-1-1-pies-cubicos-gris-wm1811d-1.jpg?v=639281305907870000 ]]></image>
+
+      <title><![CDATA[ Horno de microondas 30L Gris Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/horno-de-microondas-1-1-pies-gris-wm1811d-whirlpool/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electromenores > Microondas y Hornos ]]></category>
+
+      <description><![CDATA[ $ 177.03 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 509 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 509 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239028/Diseno sin titulo -23-.jpg?v=639068492808100000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239028/Diseno sin titulo -23-.jpg?v=639068492808100000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239028/Diseno sin titulo -23-.jpg?v=639068492808100000 ]]></image>
+
+      <title><![CDATA[ Lavadora 26KG Automática 8MWTW2654WSG Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-26kg-automatica-8mwtw2654wsg-whirlpool/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 669.02 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 159 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 159 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236440/100063989.jpg?v=638858668082730000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236440/100063989.jpg?v=638858668082730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236440/100063989.jpg?v=638858668082730000 ]]></image>
+
+      <title><![CDATA[ Secadora 23KG a Gas 7MWGD2140JB Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/secadora-a-gas-7mwgd2140jb-whirlpool/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Secadoras ]]></category>
+
+      <description><![CDATA[ $ 578.99 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 773 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 773 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/242126/WT02409D-1.jpg?v=639298515856430000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/242126/WT02409D-1.jpg?v=639298515856430000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/242126/WT02409D-1.jpg?v=639298515856430000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 255L Top Mount Xpert Inverter WT02409D Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-255l-top-mount-xpert-inverter-wt02409d-whirlpool-100066541/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 347.99 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 431 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 431 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238124/TORRE-ELE-WK25BS6E-25KG-NE-LGE--1-.jpg?v=639003861009970000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238124/TORRE-ELE-WK25BS6E-25KG-NE-LGE--1-.jpg?v=639003861009970000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238124/TORRE-ELE-WK25BS6E-25KG-NE-LGE--1-.jpg?v=639003861009970000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 262L Top Freezer WRW25CKTMB Whirlpool ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-whirlpool-wrw25cktmb-262-litros-top-mount/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 425.96 ]]></description>
+    </item>
+
+  </channel>
+</rss>

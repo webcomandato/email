@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Electrolux más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 694 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 694 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241281/EWIY18F7XSZX.webp?v=639246739416070000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241281/EWIY18F7XSZX.webp?v=639246739416070000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241281/EWIY18F7XSZX.webp?v=639246739416070000 ]]></image>
+
+      <title><![CDATA[ Lavadora automatica 18KG EWIY18F7XSZX Onix Electrolux ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-automatica-18kg-ewiy18f7xszx-onix-electrolux/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 389.01 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 693 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 693 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241259/LS22D-0.webp?v=639246707325900000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241259/LS22D-0.webp?v=639246707325900000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241259/LS22D-0.webp?v=639246707325900000 ]]></image>
+
+      <title><![CDATA[ Lavadora automática 22KG LS22D Electrolux ]]></title>
+      <link><![CDATA[ https://www.comandato.com/lavadora-automatica-22kg-ls22d-electrolux/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Lavado y Secado ]]></category>
+
+      <description><![CDATA[ $ 456.99 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 692 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 692 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241243/ERT25A3Q6DC.webp?v=639246678091430000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241243/ERT25A3Q6DC.webp?v=639246678091430000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241243/ERT25A3Q6DC.webp?v=639246678091430000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 257L Top Mount ERT25A3Q6DC Electrolux ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-257l-tm-ert25a3q6dc-electrolux/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 363.96 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 691 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 691 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241225/Refrigeradora-419L-Side-by-Side-ERS45F3Q5EB-Electrolux.webp?v=639246680026900000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241225/Refrigeradora-419L-Side-by-Side-ERS45F3Q5EB-Electrolux.webp?v=639246680026900000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241225/Refrigeradora-419L-Side-by-Side-ERS45F3Q5EB-Electrolux.webp?v=639246680026900000 ]]></image>
+
+      <title><![CDATA[ Refrigeradora 419L Side by Side ERS45F3Q5EB Electrolux ]]></title>
+      <link><![CDATA[ https://www.comandato.com/refrigeradora-419l-side-by-side-ers45f3q5eb-electrolux/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Electrodomésticos > Refrigeradoras ]]></category>
+
+      <description><![CDATA[ $ 599.05 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 769 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 769 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/242079/160338-1000-1000.webp?v=639289087081270000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/242079/160338-1000-1000.webp?v=639289087081270000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/242079/160338-1000-1000.webp?v=639289087081270000 ]]></image>
+
+      <title><![CDATA[ Aspiradora vertical Electrolux STK12 1000W Negro ]]></title>
+      <link><![CDATA[ https://www.comandato.com/aspiradora-vertical-electrolux-stk12-1000w-negro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Hogar y Limpieza > Limpieza de Superficies Interiores ]]></category>
+
+      <description><![CDATA[ $ 40.01 ]]></description>
+    </item>
+
+  </channel>
+</rss>

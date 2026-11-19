@@ -1,0 +1,181 @@
+Indurama plantilla 1: 5 productos -> rss_correo\Indurama_plantilla_1.xml
+    687  $    289.00  12000 BTU Aire Acondicionado Alta Eficiencia ASI-126A Indurama
+    568  $    399.03  Refrigeradora 300L Top Freezer RI-380 AVANT PLUS Indurama
+    146  $     93.99  Microonda 20L MWI-20BL Indurama
+    125  $    175.00  Cocina a Gas 4Q Cadiz Spazio Indurama
+    673  $    626.99  Refrigeradora 472L Side by Side RI-7472 CR Indurama
+Indurama plantilla 2: 5 productos -> rss_correo\Indurama_plantilla_2.xml
+    648  $    317.96  Cocina a Gas 4Q Ferrara MaxGrill Zafiro Indurama
+    32  $    658.97  Congelador Indurama CI-400 400 Litros
+    717  $    657.03  Televisor 65" 4K UHD Google TV 65TIKJ1UHDQLE Indurama
+    703  $    458.95  Cocina a Gas 5Q Turin Zafiro S01 C30 Indurama
+    663  $    459.01  Televisor 50" 4K QLED Google TV 50TIKJ1UHDQLED Indurama
+Mabe plantilla 1: 5 productos -> rss_correo\Mabe_plantilla_1.xml
+    634  $    672.95  Refrigeradora 480L Side by Side MSE480LPLPS0 Mabe
+    594  $    467.05  Lavadora 21KG Automática LME1220WDGAB0 Mabe
+    295  $    615.05  Refrigeradora 470L Top Freezer RMP470YEU Mabe
+    243  $    367.05  Lavadora 19KG Automática LME9120WDGAB01 Mabe
+    626  $    165.57  Microonda 20L HMM07CEBN Mabe
+Mabe plantilla 2: 5 productos -> rss_correo\Mabe_plantilla_2.xml
+    593  $    186.98  Frigobar Mabe RMF04BRX1 90 Litros
+    567  $   1429.14  Torre a Gas de Lavado y Secado 24KG MCL2440PSBB0 Mabe
+    440  $    579.05  Refrigeradora 415L Top Freezer RMP415GEC Mabe
+    439  $    264.98  Cocina a Gas 4Q EM6040FN0 Mabe
+    294  $    558.01  Refrigeradora 415L Top Freezer RMP415YEU Mabe
+LG plantilla 1: 5 productos -> rss_correo\LG_plantilla_1.xml
+    665  $    698.94  24000 BTU Aire Acondicionado Inverter VX242CL31 LG
+    468  $    325.98  Televisor 43" 4K UHD webOS 43UA7500PSA LG
+    178  $    458.97  Lavadora 19KG Automática WT19DVTM LG
+    130  $    319.00  Lavadora 18KG Semiautomática WP18WAR LG
+    770  $   1024.97  Televisor 75" 4K UHD webOS 75NU855BPSA LG
+LG plantilla 2: 5 productos -> rss_correo\LG_plantilla_2.xml
+    744  $   1380.05  Televisor 85" 4K UHD webOS 85NU855BPSA LG
+    743  $    529.97  Televisor 55" 4K UHD webOS 55NU855BPSA LG
+    624  $    582.97  Lavadora 22KG Automática WT22OBTX6 LG
+    490  $    394.99  Refrigeradora 263L Top Freezer VT27BPY LG
+    475  $    948.91  Televisor 75" 4K UHD webOS 75UA8500PSA LG
+Sony plantilla 1: 3 productos -> rss_correo\Sony_plantilla_1.xml
+    640  $   1075.94  Consola PlayStation 5 HW 2015 Digital GT7+ASTRO
+    508  $   1176.11  Consola PlayStation 5 CFI 2015 STD GT7+ASTRO
+    476  $    587.03  Parlante Sony TOWER 9 AC | POWER SOUND - Bluetooth - USB
+Sony plantilla 2: 3 productos -> rss_correo\Sony_plantilla_2.xml
+    640  $   1075.94  Consola PlayStation 5 HW 2015 Digital GT7+ASTRO
+    508  $   1176.11  Consola PlayStation 5 CFI 2015 STD GT7+ASTRO
+    476  $    587.03  Parlante Sony TOWER 9 AC | POWER SOUND - Bluetooth - USB
+Bazzuka plantilla 1: 4 productos -> rss_correo\Bazzuka_plantilla_1.xml
+    736  $    147.98  Parlante portatil Blast Bazzuka - Color Negro
+    400  $    326.01  Parlante Bazzuka B2215 4500 Watts - Color Negro
+    112  $    152.98  Parlante Bazzuka L-215  15.000 W - Color Negro
+    37  $    268.99  Parlante Activo Bazzuka B415 | Bluetooth - USB - 85.000 Watts PMPO
+Bazzuka plantilla 2: 4 productos -> rss_correo\Bazzuka_plantilla_2.xml
+    736  $    147.98  Parlante portatil Blast Bazzuka - Color Negro
+    400  $    326.01  Parlante Bazzuka B2215 4500 Watts - Color Negro
+    112  $    152.98  Parlante Bazzuka L-215  15.000 W - Color Negro
+    37  $    268.99  Parlante Activo Bazzuka B415 | Bluetooth - USB - 85.000 Watts PMPO
+Longtime plantilla 1: 1 productos -> rss_correo\Longtime_plantilla_1.xml
+    585  $    570.01  24000 BTU Aire Acondicionado Inverter Longtime
+Longtime plantilla 2: 1 productos -> rss_correo\Longtime_plantilla_2.xml
+    585  $    570.01  24000 BTU Aire Acondicionado Inverter Longtime
+TCL plantilla 1: 5 productos -> rss_correo\TCL_plantilla_1.xml
+    734  $    628.95  Lavadora secadora 17KG automática C3617 TCL
+    532  $    788.92  36000 BTU Aire Acondicionado Inverter TAC-36CSDI/XA73 TCL
+    558  $    589.97  24000 BTU Aire Acondicionado Alta Eficiencia TAC-24CSD/ZG11 TCL
+    771  $    378.98  Televisor 50" 4K UHD Google TV 50S5K TCL
+    735  $    281.97  Refrigeradora 210L Top Freezer TRF-2 TCL
+TCL plantilla 2: 5 productos -> rss_correo\TCL_plantilla_2.xml
+    702  $    788.99  Televisor 65" 4K QLED Google TV 65P7L TCL
+    620  $    509.04  18000 BTU Aire Acondicionado Alta Eficiencia TAC-18CSD/ZG11 TCL
+    531  $    319.01  12000 BTU Aire Acondicionado Alta Eficiencia TAC-12CSD/ZG11 TCL
+    372  $     97.01  Barra de Sonido TCL 100W 2.0 canales S45H
+    282  $    409.98  Televisor 50" 4K UHD Google TV 50V6C TCL
+Whirlpool plantilla 1: 5 productos -> rss_correo\Whirlpool_plantilla_1.xml
+    759  $    177.03  Horno de microondas 30L Gris Whirlpool
+    509  $    669.02  Lavadora 26KG Automática 8MWTW2654WSG Whirlpool
+    159  $    578.99  Secadora 23KG a Gas 7MWGD2140JB Whirlpool
+    773  $    347.99  Refrigeradora 255L Top Mount Xpert Inverter WT02409D Whirlpool
+    431  $    425.96  Refrigeradora 262L Top Freezer WRW25CKTMB Whirlpool
+Whirlpool plantilla 2: 5 productos -> rss_correo\Whirlpool_plantilla_2.xml
+    601  $    562.97  Lavadora 22KG Automática 8MWTW2244WS Whirlpool
+    491  $    289.02  Congelador 198L Horizontal Dual Cooling WCF2107Q Whirlpool
+    458  $    166.99  Microonda 30L WM2811D Whirlpool
+    302  $    742.93  Refrigeradora 450L Bottom Freezer WRE56CKTWW Whirlpool
+    190  $    811.98  Refrigeradora 521L Side by Side WD1610S Whirlpool
+Samsung plantilla 1: 5 productos -> rss_correo\Samsung_plantilla_1.xml
+    466  $    289.00  Televisor 43" 4K UHD Tizen UN43U8000FPCZE Samsung
+    297  $    790.06  Secadora 24KG Eléctrica DVE24DG800VAP Samsung
+    128  $    488.00  Cocina a Gas 5Q NX52T7522LS/AP  Samsung
+    772  $    799.04  Refrigeradora 546L Side by Side RS40H53WDTED Samsung
+    680  $    489.98  Celular Samsung A56 Negro 256GB 5G LTE Dual SIM
+Samsung plantilla 2: 5 productos -> rss_correo\Samsung_plantilla_2.xml
+    679  $    545.00  Celular Samsung A37 Gris 256GB 5G LTE Dual SIM
+    678  $    295.98  Celular Samsung A17 Negro 256GB 4G LTE Dual SIM
+    677  $    159.99  Celular Samsung A07 Negro 128GB 4G LTE Dual SIM
+    595  $    455.06  Televisor 55" 4K UHD Tizen UN55U8000FPCZE Samsung
+    579  $    919.05  Televisor 75" 4K UHD Tizen UN75U8000FPCZE Samsung
+JBL plantilla 1: 5 productos -> rss_correo\JBL_plantilla_1.xml
+    510  $    304.00  Parlante portátil JBL encore essential 2 Negro
+    745  $    480.94  Parlante portátil JBL party box on the go 2 plus Negro
+    719  $     34.50  Audífonos JBL JBLT520CBLKAM Negro USB-C
+    718  $     34.50  Audífonos JBL JBLT520CBLKAM Azul USB-C
+    668  $    700.98  Parlante JBL PartyBox Club 330 Negro 18 h
+JBL plantilla 2: 5 productos -> rss_correo\JBL_plantilla_2.xml
+    660  $    845.03  Parlante JBL PartyBox 520 Negro 15 h + radio JBL
+    657  $    449.04  Parlante portátil SAMSUNG MX-ST40F Negro
+    598  $     61.00  Audífonos inalámbricos JBL JBLT530BT Azul Bluetooth con micrófono
+    597  $     61.00  Audífonos inalámbricos JBL JBLT530BT Negro Bluetooth con micrófono
+    596  $     49.99  Audífonos JBL JBLT530 Negro con cable 3.5 mm, Pure Bass y micrófono
+Tekocsa plantilla 1: 5 productos -> rss_correo\Tekocsa_plantilla_1.xml
+    667  $   1076.01  Laptop HP AMD Ryzen 7 15.6" 16GB 1TB 15-FC0279LA
+    666  $    992.94  Laptop Lenovo ideapad slim 3 AMD Ryzen 7 15.3" 16GB 512GB 15ARP10
+    639  $   1107.91  Laptop Lenovo CORE I7 15.6" 16GB 512GB 15IRH10
+    638  $    841.01  Laptop Lenovo AMD Ryzen 5 15.6" 8GB 500GB 15AMN8
+    637  $    667.97  Laptop Lenovo AMD Ryzen 3 15.6" 8GB 512GB 15AMN8
+Tekocsa plantilla 2: 5 productos -> rss_correo\Tekocsa_plantilla_2.xml
+    603  $    791.06  Laptop Asus Intel Core i5-120U 15.6" 12GB 512GB X1504VA-BQ130 + Mochila y Mouse
+    193  $    634.01  Laptop Asus Intel® Core™ i3-1215U 15.6" 8GB 512GB X1504ZA + Mochila y Mouse
+    667  $   1076.01  Laptop HP AMD Ryzen 7 15.6" 16GB 1TB 15-FC0279LA
+    666  $    992.94  Laptop Lenovo ideapad slim 3 AMD Ryzen 7 15.3" 16GB 512GB 15ARP10
+    639  $   1107.91  Laptop Lenovo CORE I7 15.6" 16GB 512GB 15IRH10
+Watson plantilla 1: 5 productos -> rss_correo\Watson_plantilla_1.xml
+    609  $     32.00  Batidora de inmersion Watson 3 en 1 d-8503b
+    617  $     43.00  Olla Arrocera Watson B25082501 Negro 1.8 litros
+    370  $     19.00  Batidora de mano Watson 5 velocidades
+    290  $     19.00  Exprimidor Watson Negro 0.8 litros
+    273  $     65.01  Cocineta a Gas 4Q W101 Watson
+Watson plantilla 2: 5 productos -> rss_correo\Watson_plantilla_2.xml
+    217  $     29.00  Licuadora Portátil Watson Blanco 300 ml BL2038-GS
+    216  $     29.00  Hornilla Watson Eléctrica Blanco 2 Q
+    215  $     19.00  Hornilla Watson Eléctrica Blanco 1 Q
+    214  $     96.00  Máquina de Café Watson Negro 1.5 litros CM8501D-GS
+    213  $     15.00  Hervidor Eléctrico Watson Metal 1.7 litros MK-17S32A
+Riviera plantilla 1: 5 productos -> rss_correo\Riviera_plantilla_1.xml
+    738  $    978.01  Televisor 75" QLED 4K UHD Google TV GLT75TQF10 Riviera
+    481  $    289.00  Televisor 43" FHD Google TV GLT43TPQ10 Riviera
+    463  $    178.97  Televisor 32" HD QLED Google TV GLT32TPQ10 Riviera
+    453  $    668.92  Televisor 65" 4K QLED Google TV GLT65TPQ10 Riviera
+    443  $    449.05  Televisor 55" 4K QLED Google TV GLT55TPQ10 Riviera
+Riviera plantilla 2: 5 productos -> rss_correo\Riviera_plantilla_2.xml
+    394  $    877.92  Televisor 75" 4K UHD Google TV GLT75TPQ10 Riviera
+    738  $    978.01  Televisor 75" QLED 4K UHD Google TV GLT75TQF10 Riviera
+    481  $    289.00  Televisor 43" FHD Google TV GLT43TPQ10 Riviera
+    463  $    178.97  Televisor 32" HD QLED Google TV GLT32TPQ10 Riviera
+    453  $    668.92  Televisor 65" 4K QLED Google TV GLT65TPQ10 Riviera
+Electrolux plantilla 1: 5 productos -> rss_correo\Electrolux_plantilla_1.xml
+    691  $    599.05  Refrigeradora 419L Side by Side ERS45F3Q5EB Electrolux
+    769  $     40.01  Aspiradora vertical Electrolux STK12 1000W Negro
+    697  $     85.00  Aspiradora Electrolux ABS05 1500W Azul
+    696  $     45.00  Licuadora Electrolux EBS20 | 1.5 Litros
+    695  $     85.00  Freidora de aire Electrolux Negro 5.6 litros EAF45
+Electrolux plantilla 2: 5 productos -> rss_correo\Electrolux_plantilla_2.xml
+    694  $    389.01  Lavadora automatica 18KG EWIY18F7XSZX Onix Electrolux
+    693  $    456.99  Lavadora automática 22KG LS22D Electrolux
+    692  $    363.96  Refrigeradora 257L Top Mount ERT25A3Q6DC Electrolux
+    691  $    599.05  Refrigeradora 419L Side by Side ERS45F3Q5EB Electrolux
+    769  $     40.01  Aspiradora vertical Electrolux STK12 1000W Negro
+PlayStation plantilla 1: 2 productos -> rss_correo\PlayStation_plantilla_1.xml
+    640  $   1075.94  Consola PlayStation 5 HW 2015 Digital GT7+ASTRO
+    508  $   1176.11  Consola PlayStation 5 CFI 2015 STD GT7+ASTRO
+PlayStation plantilla 2: 2 productos -> rss_correo\PlayStation_plantilla_2.xml
+    640  $   1075.94  Consola PlayStation 5 HW 2015 Digital GT7+ASTRO
+    508  $   1176.11  Consola PlayStation 5 CFI 2015 STD GT7+ASTRO
+Suzuki plantilla 1: 5 productos -> rss_correo\Suzuki_plantilla_1.xml
+    563  $   2740.00  Moto Utilitaria Suzuki GD 115
+    566  $   4527.00  Moto Naked Suzuki GSX150 FI ABS
+    733  $   5580.00  Moto Suzuki Vstrom 160 5 Velocidades
+    729  $   6750.01  Moto Suzuki Gixxer GSX250 SF 6 Velocidades
+    727  $   5616.00  Moto Suzuki GSX S150C 6 Velocidades
+Suzuki plantilla 2: 5 productos -> rss_correo\Suzuki_plantilla_2.xml
+    726  $  18487.49  Moto Suzuki Vstrom 800 6 Velocidades
+    725  $   5760.01  Moto Suzuki GSX R150C 6 Velocidades
+    723  $   3599.99  Moto Utilitaria Suzuki GN125F
+    565  $   3700.00  Moto Naked Suzuki GSX 125
+    564  $   2940.00  Moto Utilitaria Suzuki GD 115 Evolution
+
+Avisos:
+- Sony: solo 3 productos disponibles (mínimo 5)
+- Bazzuka: solo 4 productos disponibles (mínimo 5)
+- Longtime: solo 1 productos disponibles (mínimo 5)
+- Tekocsa: 7 disponibles; la plantilla 2 repite productos de la 1
+- Riviera: 6 disponibles; la plantilla 2 repite productos de la 1
+- Electrolux: 8 disponibles; la plantilla 2 repite productos de la 1
+- PlayStation: solo 2 productos disponibles (mínimo 5)

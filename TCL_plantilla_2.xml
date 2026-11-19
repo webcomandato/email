@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - TCL más vendidos (plantilla 2)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 702 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 702 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241372/65P7L.webp?v=639251771949170000" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241372/65P7L.webp?v=639251771949170000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241372/65P7L.webp?v=639251771949170000 ]]></image>
+
+      <title><![CDATA[ Televisor 65" 4K QLED Google TV 65P7L TCL ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-65-4k-qled-google-tv-65p7l-tcl/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 788.99 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 620 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 620 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240387/12000-BTU-Aire-Acondicionado-Alta-Eficiencia-TAC12CSDZG11-TCL.jpg?v=639136790164270000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240387/12000-BTU-Aire-Acondicionado-Alta-Eficiencia-TAC12CSDZG11-TCL.jpg?v=639136790164270000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240387/12000-BTU-Aire-Acondicionado-Alta-Eficiencia-TAC12CSDZG11-TCL.jpg?v=639136790164270000 ]]></image>
+
+      <title><![CDATA[ 18000 BTU Aire Acondicionado Alta Eficiencia TAC-18CSD/ZG11 TCL ]]></title>
+      <link><![CDATA[ https://www.comandato.com/18000-btu-aire-acondicionado-alta-eficiencia-tac-18csd-zg11-tcl/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Climatización > Aires Acondicionados ]]></category>
+
+      <description><![CDATA[ $ 509.04 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 531 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 531 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239326/12000-BTU-Aire-Acondicionado-Alta-Eficiencia-TAC12CSDZG11-TCL.jpg?v=639086631786370000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239326/12000-BTU-Aire-Acondicionado-Alta-Eficiencia-TAC12CSDZG11-TCL.jpg?v=639086631786370000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239326/12000-BTU-Aire-Acondicionado-Alta-Eficiencia-TAC12CSDZG11-TCL.jpg?v=639086631786370000 ]]></image>
+
+      <title><![CDATA[ 12000 BTU Aire Acondicionado Alta Eficiencia TAC-12CSD/ZG11 TCL ]]></title>
+      <link><![CDATA[ https://www.comandato.com/12000-btu-aire-acondicionado-alta-eficiencia-tac-12csd-zg11-tcl/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Climatización > Aires Acondicionados ]]></category>
+
+      <description><![CDATA[ $ 319.01 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 372 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 372 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237519/444.jpg?v=638876823404370000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237519/444.jpg?v=638876823404370000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237519/444.jpg?v=638876823404370000 ]]></image>
+
+      <title><![CDATA[ Barra de Sonido TCL 100W 2.0 canales S45H ]]></title>
+      <link><![CDATA[ https://www.comandato.com/barra-de-sonido-tcl-100w-2-0-canales-s45h/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Barras de sonido ]]></category>
+
+      <description><![CDATA[ $ 97.01 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 282 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 282 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/237014/NO-TOCAR---CATALOGO-2.jpg?v=638858669626300000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/237014/NO-TOCAR---CATALOGO-2.jpg?v=638858669626300000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/237014/NO-TOCAR---CATALOGO-2.jpg?v=638858669626300000 ]]></image>
+
+      <title><![CDATA[ Televisor 50" 4K UHD Google TV 50V6C TCL ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-tcl-smart-tv-uhd-4k-google-tv-50-50v6c/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 409.98 ]]></description>
+    </item>
+
+  </channel>
+</rss>

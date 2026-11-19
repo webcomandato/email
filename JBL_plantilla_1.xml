@@ -1,0 +1,94 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - JBL más vendidos (plantilla 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 510 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 510 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239202/9.jpg?v=639080618248730000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239202/9.jpg?v=639080618248730000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239202/9.jpg?v=639080618248730000 ]]></image>
+
+      <title><![CDATA[ Parlante portátil JBL encore essential 2 Negro ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-portatil-jbl-encore-essential-2-negro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes portátiles ]]></category>
+
+      <description><![CDATA[ $ 304.00 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 745 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 745 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241796/Parlante-portatil-JBL-party-box-on-the-go-2-plus-Negro.png?v=639277762718570000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241796/Parlante-portatil-JBL-party-box-on-the-go-2-plus-Negro.png?v=639277762718570000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241796/Parlante-portatil-JBL-party-box-on-the-go-2-plus-Negro.png?v=639277762718570000 ]]></image>
+
+      <title><![CDATA[ Parlante portátil JBL party box on the go 2 plus Negro ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-portatil-jbl-party-box-on-the-go-2-plus-negro/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes portátiles ]]></category>
+
+      <description><![CDATA[ $ 480.94 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 719 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 719 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241533/JBL_Tune_520C USB-C_Hero_Black.png?v=639256942890800000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241533/JBL_Tune_520C USB-C_Hero_Black.png?v=639256942890800000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241533/JBL_Tune_520C USB-C_Hero_Black.png?v=639256942890800000 ]]></image>
+
+      <title><![CDATA[ Audífonos JBL JBLT520CBLKAM Negro USB-C ]]></title>
+      <link><![CDATA[ https://www.comandato.com/audifonos-jbl-jblt520cblkam-negro-usb-c/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Audífonos ]]></category>
+
+      <description><![CDATA[ $ 34.50 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 718 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 718 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241542/JBL_Tune_520C USB-C_Hero_Blue.png?v=639256944896530000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241542/JBL_Tune_520C USB-C_Hero_Blue.png?v=639256944896530000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241542/JBL_Tune_520C USB-C_Hero_Blue.png?v=639256944896530000 ]]></image>
+
+      <title><![CDATA[ Audífonos JBL JBLT520CBLKAM Azul USB-C ]]></title>
+      <link><![CDATA[ https://www.comandato.com/audifonos-jbl-jblt520cblkam-azul-usb-c/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Audífonos ]]></category>
+
+      <description><![CDATA[ $ 34.50 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 668 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 668 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/240947/JBLPB330BLKAM.png?v=639210396456270000" medium="image" type="image/png"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/240947/JBLPB330BLKAM.png?v=639210396456270000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/240947/JBLPB330BLKAM.png?v=639210396456270000 ]]></image>
+
+      <title><![CDATA[ Parlante JBL PartyBox Club 330 Negro 18 h ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-jbl-partybox-club-330-negro-18-h/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes portátiles ]]></category>
+
+      <description><![CDATA[ $ 700.98 ]]></description>
+    </item>
+
+  </channel>
+</rss>
