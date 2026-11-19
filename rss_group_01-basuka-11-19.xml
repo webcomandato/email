@@ -1,0 +1,77 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Comandato - Feed productos (corregido para MailUp) (Grupo 1)</title>
+    <link>https://www.comandato.com</link>
+    <description>Feed RSS con media:content para que MailUp muestre imágenes con [feed_mediacontent]</description>
+    <language>es-EC</language>
+
+    <!-- ITEM 1 -->
+    <item>
+      <id><![CDATA[ 736 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 736 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/241701_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/241701_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/241701_2 ]]></image>
+
+      <title><![CDATA[ Parlante portatil Blast Bazzuka - Color Negro 100066467 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-portatil-blast-bazzuka-color-negro/p?idsku=736 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes ]]></category>
+
+      <description><![CDATA[ $ 147.98 ]]></description>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <id><![CDATA[ 112 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 112 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236283_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236283_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236283_2 ]]></image>
+
+      <title><![CDATA[ Parlante Bazzuka L-215  15.000 W - Color Negro 100062052 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-bazzuka-l-215-15000-w-color-negro/p?idsku=112 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes ]]></category>
+
+      <description><![CDATA[ $ 152.98 ]]></description>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <id><![CDATA[ 400 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 400 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239597_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239597_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239597_2 ]]></image>
+
+      <title><![CDATA[ Parlante Bazzuka B2215 4500 Watts - Color Negro 100065402 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-bazzuka-b2215-4500-watts-color-negro/p?idsku=400 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes ]]></category>
+
+      <description><![CDATA[ $ 326.01 ]]></description>
+    </item>
+
+    <!-- ITEM 4 -->
+    <item>
+      <id><![CDATA[ 37 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 37 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/236049_2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/236049_2" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/236049_2 ]]></image>
+
+      <title><![CDATA[ Parlante Activo Bazzuka B415 | Bluetooth - USB - 85.000 Watts PMPO 100061867 ]]></title>
+      <link><![CDATA[ https://www.comandato.com/parlante-activo-b415-bazzuka-incluye-bluetooth-usb/p?idsku=37 ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Audio > Parlantes ]]></category>
+
+      <description><![CDATA[ $ 268.99 ]]></description>
+    </item>
+
+  </channel>
+</rss>
