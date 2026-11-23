@@ -19,7 +19,7 @@
       <linkText><![CDATA[ COMPRAR ]]></linkText>
       <category><![CDATA[ Tecnología > Televisores ]]></category>
 
-      <description><![CDATA[ $ 978.01 ]]></description>
+      <description><![CDATA[ $ 969.05 ]]></description>
     </item>
 
     <!-- ITEM 2 -->
@@ -36,27 +36,10 @@
       <linkText><![CDATA[ COMPRAR ]]></linkText>
       <category><![CDATA[ Tecnología > Televisores ]]></category>
 
-      <description><![CDATA[ $ 289.00 ]]></description>
+      <description><![CDATA[ $ 274.98 ]]></description>
     </item>
 
     <!-- ITEM 3 -->
-    <item>
-      <id><![CDATA[ 463 ]]></id>
-      <guid isPermaLink="false"><![CDATA[ 463 ]]></guid>
-
-      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/238453/RLED-GLT32TPQ10.png?v=638991773692170000" medium="image" type="image/png"/>
-      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/238453/RLED-GLT32TPQ10.png?v=638991773692170000" width="384" height="288" credit="Image"/>
-      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/238453/RLED-GLT32TPQ10.png?v=638991773692170000 ]]></image>
-
-      <title><![CDATA[ Televisor 32" HD QLED Google TV GLT32TPQ10 Riviera ]]></title>
-      <link><![CDATA[ https://www.comandato.com/televisor-riviera-qled-rled-hd-google-tv-32--glt32tpq10/p ]]></link>
-      <linkText><![CDATA[ COMPRAR ]]></linkText>
-      <category><![CDATA[ Tecnología > Televisores ]]></category>
-
-      <description><![CDATA[ $ 178.97 ]]></description>
-    </item>
-
-    <!-- ITEM 4 -->
     <item>
       <id><![CDATA[ 453 ]]></id>
       <guid isPermaLink="false"><![CDATA[ 453 ]]></guid>
@@ -70,10 +53,10 @@
       <linkText><![CDATA[ COMPRAR ]]></linkText>
       <category><![CDATA[ Tecnología > Televisores ]]></category>
 
-      <description><![CDATA[ $ 668.92 ]]></description>
+      <description><![CDATA[ $ 639.03 ]]></description>
     </item>
 
-    <!-- ITEM 5 -->
+    <!-- ITEM 4 -->
     <item>
       <id><![CDATA[ 443 ]]></id>
       <guid isPermaLink="false"><![CDATA[ 443 ]]></guid>
@@ -87,7 +70,24 @@
       <linkText><![CDATA[ COMPRAR ]]></linkText>
       <category><![CDATA[ Tecnología > Televisores ]]></category>
 
-      <description><![CDATA[ $ 449.05 ]]></description>
+      <description><![CDATA[ $ 428.98 ]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <id><![CDATA[ 394 ]]></id>
+      <guid isPermaLink="false"><![CDATA[ 394 ]]></guid>
+
+      <media:content url="https://comandato.vteximg.com.br/arquivos/ids/239785/Diseno sin titulo -36-.jpg?v=639109239599670000" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://comandato.vteximg.com.br/arquivos/ids/239785/Diseno sin titulo -36-.jpg?v=639109239599670000" width="384" height="288" credit="Image"/>
+      <image><![CDATA[ https://comandato.vteximg.com.br/arquivos/ids/239785/Diseno sin titulo -36-.jpg?v=639109239599670000 ]]></image>
+
+      <title><![CDATA[ Televisor 75" 4K UHD Google TV GLT75TPQ10 Riviera ]]></title>
+      <link><![CDATA[ https://www.comandato.com/televisor-riviera-rled-uhd-4k-google-tv-75-glt75tpq10/p ]]></link>
+      <linkText><![CDATA[ COMPRAR ]]></linkText>
+      <category><![CDATA[ Tecnología > Televisores ]]></category>
+
+      <description><![CDATA[ $ 868.92 ]]></description>
     </item>
 
   </channel>
